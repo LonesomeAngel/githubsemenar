@@ -58,6 +58,13 @@
 
 > [!WARNING]
 > Dangerous certain consequences of an action.
-##
-##
-##
+
+## Ссылки
+
+сыслки должны быть безопасны и использовать только протокол https
+
+фраза для ссылки должна быть понятной и полноценной, описывающей то что в ссылке например :
+
+For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)
+
+не рекомендуется использовать фразу щелкнуть здесь, по причине плохой индексации подобного
