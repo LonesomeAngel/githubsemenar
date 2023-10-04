@@ -69,3 +69,5 @@
 For more information, see the [contributor guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md)
 
 не рекомендуется использовать фразу щелкнуть здесь, по причине плохой индексации подобного
+
+> git clone клонирование внешнего репозитория на локальный диск
